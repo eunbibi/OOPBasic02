@@ -1,0 +1,13 @@
+﻿Go to find files name Person.cs, Employee.cs
+
+
+
+* Inheritance:
+1. A relationship between classes.
+2. For "Don't repeat yourself" principle(Don't need to create same properties)
+3. Only using related classes like having same behaviours
+
+
+-> The Employee class inherits from the Person class and so it automatically acquires all the public members of the Person class
+
+->  C# does not allow a class to inherit multiple classes. A class can only achieve multiple inheritances through interfaces

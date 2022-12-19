@@ -1,0 +1,15 @@
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\bin\Debug\net6.0\ListDictionary.exe
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\bin\Debug\net6.0\ListDictionary.deps.json
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\bin\Debug\net6.0\ListDictionary.runtimeconfig.json
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\bin\Debug\net6.0\ListDictionary.dll
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\bin\Debug\net6.0\ListDictionary.pdb
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.csproj.AssemblyReference.cache
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.AssemblyInfoInputs.cache
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.AssemblyInfo.cs
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.csproj.CoreCompileInputs.cache
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.dll
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\refint\ListDictionary.dll
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.pdb
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ListDictionary.genruntimeconfig.cache
+C:\Users\eunbi\Desktop\Assignment02\ListDictionary\obj\Debug\net6.0\ref\ListDictionary.dll
